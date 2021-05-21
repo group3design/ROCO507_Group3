@@ -7,7 +7,8 @@
 <br />Done by: Group 3
 <br />Title: Indoor Disinfection Mobile Robot (IDMR)
 <br />
-<br />![plot](./group3design/ROCO507_Group3/Pictures/in_hospital.png)
+<br />![in_hospital](https://user-images.githubusercontent.com/83987427/119172664-22e42000-ba5e-11eb-952a-5584504a078e.png)
+
 <br />
 <br />
 <br />In IDMR-Gitub file there are three main files:
