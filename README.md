@@ -7,6 +7,8 @@
 <br />Done by: Group 3
 <br />Title: Indoor Disinfection Mobile Robot (IDMR)
 <br />
+<br />![Alt text](Pictures/in_hospital.png?raw=true "Title")
+<br />
 <br />
 <br />In IDMR-Gitub file there are three main files:
 <br />
